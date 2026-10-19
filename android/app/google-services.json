@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "322152790600",
+    "project_id": "covidtracker19-ecd45",
+    "storage_bucket": "covidtracker19-ecd45.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322152790600:android:de62c063b04660b474367d",
+        "android_client_info": {
+          "package_name": "com.example.covid_tracker_19"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA18FXiwsq7U-zH1GpOqgQ-k5Ge8ebiLbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
